@@ -1,0 +1,10 @@
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Auth.js
+│   │   ├── Products.js
+│   │   ├── Cart.js
+│   │   └── Checkout.js
+│   ├── App.js
+│   ├── index.js
+└── ...
